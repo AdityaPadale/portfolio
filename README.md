@@ -57,6 +57,6 @@ B.Tech — Computer Science and Engineering (2021–2025)
 ---
 
 ## Resume
-Download my resume: [Aditya-Padale-resume.pdf](Aditya_Shashikant_Padale_Resume_Pune.pdf)
+Download my resume: [Aditya-Padale-resume.pdf](Aditya_Shashikant_Padale_Resume_AWS+DEVOPS.pdf)
 
 ---
